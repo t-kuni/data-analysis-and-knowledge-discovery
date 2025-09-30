@@ -52,3 +52,15 @@ LD_LIBRARY_PATH="" jupyter notebook
 ```bash
 deactivate
 ```
+
+## セルを挿入するショーロカット
+
+Esc -> b
+
+## セルの種類を切り替えるショートカット
+
+* **コードセルに切り替え**: `Esc` → `y`
+* **Markdownセルに切り替え**: `Esc` → `m`
+* **生セル (Raw Cell) に切り替え**: `Esc` → `r`
+
+いずれもコマンドモード（セルの枠が青い状態）で有効です。
